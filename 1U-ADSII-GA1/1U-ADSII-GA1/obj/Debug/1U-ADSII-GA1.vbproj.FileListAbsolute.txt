@@ -1,0 +1,47 @@
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.exe.config
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.exe
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.pdb
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.xml
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\aa\1U-ADSII-GA1.resources.dll
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.vbprojResolveAssemblyReference.cache
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Form1.resources
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Resources.resources
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Form1.aa.resources
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.vbproj.GenerateResource.Cache
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\aa\1U-ADSII-GA1.resources.dll
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.exe
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.xml
+c:\users\pc15lab4\documents\visual studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.pdb
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.exe.config
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.exe
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.xml
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.pdb
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.exe
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.pdb
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.xml
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\aa\1U-ADSII-GA1.resources.dll
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.vbprojResolveAssemblyReference.cache
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Form1.resources
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Form2.resources
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Resources.resources
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Form1.aa.resources
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.vbproj.GenerateResource.Cache
+C:\Users\Sweet\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\aa\1U-ADSII-GA1.resources.dll
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.exe.config
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.exe
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.xml
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.pdb
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.exe
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.pdb
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\1U-ADSII-GA1.xml
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\aa\1U-ADSII-GA1.resources.dll
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.vbprojResolveAssemblyReference.cache
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Form1.resources
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Resources.resources
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Form1.aa.resources
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\1U-ADSII-GA1.vbproj.GenerateResource.Cache
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\aa\1U-ADSII-GA1.resources.dll
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Registros.resources
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\bin\Debug\zu-ZA\1U-ADSII-GA1.resources.dll
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\_1U_ADSII_GA1.Form1.zu-ZA.resources
+C:\Users\14 Biblioteca\Documents\Visual Studio 2015\Projects\1U-ADSII-GA1\1U-ADSII-GA1\obj\Debug\zu-ZA\1U-ADSII-GA1.resources.dll
